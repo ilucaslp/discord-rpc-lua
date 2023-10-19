@@ -1,4 +1,6 @@
 # discord-rpc-lua
+![image](https://github.com/ilucaslp/discord-rpc-lua/assets/59452013/9341c30e-3a0e-4d70-9917-ba78fd472d92)
+
 Discord RPC Lua para cliente de MuOnline baseados em scripts Ogocx
 
 [INSTALAÇÃO]
